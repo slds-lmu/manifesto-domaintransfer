@@ -17,10 +17,12 @@ This repository contains Jupyter-Notebooks for conducting the analyses the analy
     │
     ├── en                 <- Notebooks, for the English language.
     │
-    ├── de                 <- Notebooks, for the English language.
+    ├── de                 <- Notebooks, for the German language.
     │
-    ├── fr                 <- Notebooks, for the English language.
+    ├── fr                 <- Notebooks, for the French language.
     │
     ├── multi              <- Notebooks, for the multilingual analyses.
     │
-    └── data               <- Notebooks, for the English language.
+    ├── utils              <- Utilities and helper functions.
+    │
+    └── data               <- The data used for the analyses.
