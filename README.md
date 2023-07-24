@@ -23,4 +23,6 @@ This repository contains Jupyter-Notebooks for conducting the analyses the analy
     │
     ├── multi              <- Notebooks, for the multilingual analyses.
     │
+    ├── utils              <- Utilities and helper functions.
+    │
     └── data               <- The data used for the analyses.
