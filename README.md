@@ -12,7 +12,6 @@ This repository contains Jupyter-Notebooks for conducting the analyses the analy
 
     ├── LICENSE
     ├── README.md          <- This file.
-    ├── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
     ├── manifesto.yml      <- The yml-file for creating the environment.
     │
     ├── en                 <- Notebooks, for the English language.
