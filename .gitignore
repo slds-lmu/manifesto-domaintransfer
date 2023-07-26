@@ -1,6 +1,6 @@
 .bin
 .json
 .txt
-.ipynd_checkpoints/
+.ipynb_checkpoints/
 data/
 __pycache__/
