@@ -4,6 +4,9 @@ dependencies:
   - pandas==1.4.4
   - matplotlib==3.7.1
   - seaborn==0.12.2
+  - joblib==1.2.0
+  - pytorch==2.0.1
+  - click==8.0.4
   - jupyterlab  
   - pip
   - pip:
