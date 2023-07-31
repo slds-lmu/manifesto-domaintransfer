@@ -22,7 +22,7 @@ Please
     │
     ├── notebooks          <- Notebooks for reproducing our analyses.
         |
-        └── utils              <- Utilities and helper functions.
+        └── utils          <- Utilities and helper functions.
     │
     ├── results            <- Results of our analyses.
     │
