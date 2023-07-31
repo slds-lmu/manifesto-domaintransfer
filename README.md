@@ -18,10 +18,13 @@ Please
     ├── LICENSE
     ├── README.md          <- This file.
     ├── manifesto.yml      <- The yml-file for creating the environment.
+    ├── .gitgnore 
     │
-    ├── notebooks          <- Notebooks for the reproducing our analyses.
+    ├── notebooks          <- Notebooks for reproducing our analyses.
         |
         └── utils              <- Utilities and helper functions.
+    │
+    ├── results            <- Results of our analyses.
     │
     └── data               <- The R-Script for recovering the data used for the analyses.
 
