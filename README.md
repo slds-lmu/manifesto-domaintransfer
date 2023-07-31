@@ -30,3 +30,26 @@ Please
     ├── utils              <- Utilities and helper functions.
     │
     └── data               <- The R-Script for recovering the data used for the analyses.
+
+## Models
+
+All models we fine-tuned for this research project are available on huggingface: https://huggingface.co/assenmacher
+
+They can either be used (at the example of our `distilbert-base-cased-manifesto-2018`) in the pipeline:
+
+```
+# Use a pipeline as a high-level helper
+from transformers import pipeline
+
+pipe = pipeline("text-classification", model="assenmacher/distilbert-base-cased-manifesto-2018")
+```
+
+or more flexibly:
+
+```
+# Load model directly
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+
+tokenizer = AutoTokenizer.from_pretrained("assenmacher/distilbert-base-cased-manifesto-2018")
+model = AutoModelForSequenceClassification.from_pretrained("assenmacher/distilbert-base-cased-manifesto-2018")
+```
