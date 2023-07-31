@@ -19,15 +19,9 @@ Please
     ├── README.md          <- This file.
     ├── manifesto.yml      <- The yml-file for creating the environment.
     │
-    ├── en                 <- Notebooks, for the English language.
-    │
-    ├── de                 <- Notebooks, for the German language.
-    │
-    ├── fr                 <- Notebooks, for the French language.
-    │
-    ├── multi              <- Notebooks, for the multilingual analyses.
-    │
-    ├── utils              <- Utilities and helper functions.
+    ├── notebooks          <- Notebooks for the reproducing out analyses.
+        |
+        └── utils              <- Utilities and helper functions.
     │
     └── data               <- The R-Script for recovering the data used for the analyses.
 
