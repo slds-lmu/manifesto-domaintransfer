@@ -2,5 +2,8 @@
 .json
 .txt
 .ipynb_checkpoints/
-data/
+multilingual_data_2018-2.csv
+multilingual_data_2022-1.csv
+target_data.csv
+models/
 __pycache__/

@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support,data
+fabric of society,0.0,0.0,0.0,0.0,Switzerland_random_test_split
+freedom and democracy,0.0,0.0,0.0,1.0,Switzerland_random_test_split
+accuracy,0.0,0.0,0.0,0.0,Switzerland_random_test_split
+macro avg,0.0,0.0,0.0,1.0,Switzerland_random_test_split
+weighted avg,0.0,0.0,0.0,1.0,Switzerland_random_test_split

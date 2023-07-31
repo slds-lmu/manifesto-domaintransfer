@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support,data
+economy,0.7965517241379311,0.8235294117647058,0.8098159509202454,561.0,Australia_random_test_split
+external relations,0.8461538461538461,0.8651685393258427,0.8555555555555556,89.0,Australia_random_test_split
+fabric of society,0.72,0.6923076923076923,0.7058823529411765,156.0,Australia_random_test_split
+freedom and democracy,0.6071428571428571,0.6071428571428571,0.6071428571428571,56.0,Australia_random_test_split
+no topic,0.0,0.0,0.0,6.0,Australia_random_test_split
+political system,0.6357142857142857,0.55625,0.5933333333333334,160.0,Australia_random_test_split
+social groups,0.6875,0.6062992125984252,0.6443514644351465,254.0,Australia_random_test_split
+welfare and quality of life,0.7758064516129032,0.8307426597582038,0.8023352793994996,579.0,Australia_random_test_split

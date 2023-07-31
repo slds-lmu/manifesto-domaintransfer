@@ -1,0 +1,7 @@
+,metric,score,domain,data
+0,Accuracy,0.8439088861616475,within-domain,training
+1,F1 score (macro),0.7292357016460669,within-domain,training
+2,Accuracy,0.6896105297227317,within-domain,validation
+3,F1 score (macro),0.5720213355895793,within-domain,validation
+4,Accuracy,0.6080326067045246,within-domain,testing
+5,F1 score (macro),0.49243229057711213,within-domain,testing

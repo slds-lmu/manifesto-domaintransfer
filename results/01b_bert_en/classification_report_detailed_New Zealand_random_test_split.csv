@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support,data
+economy,0.7814407814407814,0.7930607187112764,0.7872078720787208,807.0,New Zealand_random_test_split
+external relations,0.8026315789473685,0.782051282051282,0.7922077922077922,78.0,New Zealand_random_test_split
+fabric of society,0.7002967359050445,0.7044776119402985,0.7023809523809523,335.0,New Zealand_random_test_split
+freedom and democracy,0.5384615384615384,0.3804347826086957,0.445859872611465,92.0,New Zealand_random_test_split
+no topic,0.0,0.0,0.0,12.0,New Zealand_random_test_split
+political system,0.6188340807174888,0.5433070866141733,0.578616352201258,254.0,New Zealand_random_test_split
+social groups,0.5894736842105263,0.5793103448275863,0.5843478260869566,290.0,New Zealand_random_test_split
+welfare and quality of life,0.7681159420289855,0.8179012345679012,0.7922272047832586,972.0,New Zealand_random_test_split

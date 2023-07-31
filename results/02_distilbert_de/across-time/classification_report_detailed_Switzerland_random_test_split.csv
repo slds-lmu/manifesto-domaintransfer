@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support,data
+economy,0.5736196319018405,0.5917721518987342,0.5825545171339565,316.0,Switzerland_random_test_split
+external relations,0.7793103448275862,0.6569767441860465,0.7129337539432177,172.0,Switzerland_random_test_split
+fabric of society,0.5972850678733032,0.676923076923077,0.6346153846153847,195.0,Switzerland_random_test_split
+freedom and democracy,0.5657894736842105,0.5443037974683544,0.5548387096774193,79.0,Switzerland_random_test_split
+no topic,0.0,0.0,0.0,15.0,Switzerland_random_test_split
+political system,0.5357142857142857,0.5042016806722689,0.5194805194805194,119.0,Switzerland_random_test_split
+social groups,0.5128205128205128,0.5309734513274337,0.5217391304347827,113.0,Switzerland_random_test_split
+welfare and quality of life,0.6564885496183206,0.6771653543307087,0.6666666666666666,381.0,Switzerland_random_test_split

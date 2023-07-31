@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support,data
+economy,0.6487804878048781,0.6456310679611651,0.6472019464720195,206.0,Luxembourg_random_test_split
+external relations,0.5625,0.675,0.6136363636363636,40.0,Luxembourg_random_test_split
+fabric of society,0.46835443037974683,0.43023255813953487,0.44848484848484854,86.0,Luxembourg_random_test_split
+freedom and democracy,0.7333333333333333,0.6197183098591549,0.6717557251908396,71.0,Luxembourg_random_test_split
+no topic,0.0,0.0,0.0,8.0,Luxembourg_random_test_split
+political system,0.41,0.4880952380952381,0.44565217391304346,84.0,Luxembourg_random_test_split
+social groups,0.6984126984126984,0.4731182795698925,0.5641025641025641,93.0,Luxembourg_random_test_split
+welfare and quality of life,0.6645367412140575,0.7428571428571429,0.7015177065767285,280.0,Luxembourg_random_test_split

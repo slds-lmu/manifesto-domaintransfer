@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support,data
+economy,0.716030534351145,0.7351097178683386,0.7254447022428461,638.0,Ireland_random_test_split
+external relations,0.8373983739837398,0.7744360902255639,0.8046875,133.0,Ireland_random_test_split
+fabric of society,0.6024590163934426,0.6591928251121076,0.6295503211991434,223.0,Ireland_random_test_split
+freedom and democracy,0.53,0.6091954022988506,0.5668449197860963,87.0,Ireland_random_test_split
+no topic,0.0,0.0,0.0,41.0,Ireland_random_test_split
+political system,0.569811320754717,0.45345345345345345,0.5050167224080268,333.0,Ireland_random_test_split
+social groups,0.5498281786941581,0.5653710247349824,0.5574912891986064,283.0,Ireland_random_test_split
+welfare and quality of life,0.7057471264367816,0.7580246913580246,0.7309523809523809,810.0,Ireland_random_test_split

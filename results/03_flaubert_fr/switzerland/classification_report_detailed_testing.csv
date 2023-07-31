@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support,data
+economy,0.6666666666666666,1.0,0.8,2.0,testing
+external relations,1.0,1.0,1.0,1.0,testing
+fabric of society,0.5,0.4,0.4444444444444445,5.0,testing
+freedom and democracy,0.0,0.0,0.0,1.0,testing
+political system,1.0,1.0,1.0,2.0,testing
+social groups,1.0,1.0,1.0,1.0,testing
+welfare and quality of life,0.8571428571428571,0.8571428571428571,0.8571428571428571,7.0,testing
+accuracy,0.7368421052631579,0.7368421052631579,0.7368421052631579,0.7368421052631579,testing

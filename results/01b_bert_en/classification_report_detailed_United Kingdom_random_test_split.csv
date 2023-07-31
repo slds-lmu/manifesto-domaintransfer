@@ -1,0 +1,9 @@
+,precision,recall,f1-score,support,data
+economy,0.6733870967741935,0.7121535181236673,0.6922279792746113,469.0,United Kingdom_random_test_split
+external relations,0.7428571428571429,0.7155963302752294,0.7289719626168223,218.0,United Kingdom_random_test_split
+fabric of society,0.6224899598393574,0.60546875,0.6138613861386139,256.0,United Kingdom_random_test_split
+freedom and democracy,0.6639344262295082,0.5704225352112676,0.6136363636363636,142.0,United Kingdom_random_test_split
+no topic,0.0,0.0,0.0,20.0,United Kingdom_random_test_split
+political system,0.4692737430167598,0.45901639344262296,0.46408839779005523,183.0,United Kingdom_random_test_split
+social groups,0.4943181818181818,0.6,0.5420560747663551,145.0,United Kingdom_random_test_split
+welfare and quality of life,0.7506666666666667,0.7516688918558078,0.751167444963309,749.0,United Kingdom_random_test_split
