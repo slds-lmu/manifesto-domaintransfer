@@ -19,7 +19,7 @@ Please
     ├── README.md          <- This file.
     ├── manifesto.yml      <- The yml-file for creating the environment.
     │
-    ├── notebooks          <- Notebooks for the reproducing out analyses.
+    ├── notebooks          <- Notebooks for the reproducing our analyses.
         |
         └── utils              <- Utilities and helper functions.
     │
