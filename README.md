@@ -6,7 +6,7 @@ This repository contains Jupyter-Notebooks for conducting the analyses the analy
 
 - Authors: M. Aßenmacher, N. Sauter, C. Heumann
 - Contact: matthias [at] stat.uni-muenchen.de
-- ArXiv: [link to be added]
+- ArXiv: https://arxiv.org/abs/2307.16511
 
 ## Data
 
